@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 })
    
 
-function fetchRecipes(searchTerm = ''){
+function fetchRecipes(){
     fetch(`http://localhost:3000/recipes`, {
         method: 'GET',
         headers: {
