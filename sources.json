@@ -1,0 +1,268 @@
+{
+  "recipes": [
+    {
+      "dish": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish featuring spaghetti tossed with a creamy sauce made from eggs, Parmesan cheese, and crispy bacon or pancetta.",
+      "ingredients": [
+        "Spaghetti noodles",
+        "Eggs",
+        "Parmesan cheese",
+        "Bacon or pancetta",
+        "Black pepper",
+        "Salt"
+      ],
+      "procedure": [
+        "Cook spaghetti according to package instructions until al dente. Drain and set aside, reserving some pasta water.",
+        "In a bowl, whisk together eggs, grated Parmesan cheese, salt, and black pepper.",
+        "In a skillet, cook diced bacon or pancetta until crispy. Remove from heat and drain excess fat.",
+        "Add cooked spaghetti to the skillet with the bacon. Toss to combine.",
+        "Pour the egg mixture over the spaghetti and quickly toss to coat. The residual heat will cook the eggs without scrambling them.",
+        "If the sauce is too thick, add some reserved pasta water to thin it out.",
+        "Serve immediately, garnished with additional grated Parmesan cheese and black pepper."
+      ],
+      "total_time_taken": "20 minutes",
+      "servings": "4",
+      "image": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2622edit.jpg"
+    },
+    {
+      "dish": "Classic Chocolate Chip Cookies",
+      "description": "These cookies are a timeless favorite, featuring a soft and chewy texture with gooey chocolate chips in every bite.",
+      "ingredients": [
+        "All-purpose flour",
+        "Butter",
+        "Brown sugar",
+        "Granulated sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips"
+      ],
+      "procedure": [
+        "Preheat oven to 350°F (175°C). Line baking sheets with parchment paper.",
+        "In a bowl, cream together butter, brown sugar, and granulated sugar until smooth.",
+        "Beat in eggs one at a time, then stir in vanilla extract.",
+        "Combine flour, baking soda, and salt; gradually mix into the creamed mixture.",
+        "Fold in chocolate chips.",
+        "Drop rounded spoonfuls of dough onto prepared baking sheets.",
+        "Bake for 8 to 10 minutes, or until golden brown.",
+        "Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+      ],
+      "total_time_taken": "30 minutes",
+      "servings": "24 cookies",
+      "image": "https://images.aws.nestle.recipes/resized/5b069c3ed2feea79377014f6766fcd49_Original_NTH_Chocolate_Chip_Cookie_448_448.jpg"
+    },
+    {
+      "dish": "Margherita Pizza",
+      "description": "A classic Italian pizza topped with ripe tomatoes, fresh mozzarella cheese, and fragrant basil leaves, drizzled with extra-virgin olive oil.",
+      "ingredients": [
+        "Pizza dough",
+        "Tomatoes",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Extra-virgin olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "procedure": [
+        "Preheat oven to 475°F (245°C).",
+        "Roll out pizza dough on a floured surface to desired thickness.",
+        "Spread tomato sauce over the dough, leaving a small border for the crust.",
+        "Arrange slices of fresh mozzarella and tomato on top of the sauce.",
+        "Drizzle with olive oil and season with salt and pepper.",
+        "Bake in preheated oven for 12 to 15 minutes, or until crust is golden and cheese is bubbly.",
+        "Remove from oven and sprinkle with fresh basil leaves before serving."
+      ],
+      "total_time_taken": "25 minutes",
+      "servings": "2-4",
+      "image": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format"
+    },
+    {
+      "dish": "Chicken Alfredo Pasta",
+      "description": "A creamy and indulgent pasta dish featuring tender fettuccine noodles tossed in a rich Alfredo sauce with slices of seasoned chicken breast.",
+      "ingredients": [
+        "Fettuccine pasta",
+        "Chicken breast",
+        "Heavy cream",
+        "Butter",
+        "Garlic",
+        "Parmesan cheese",
+        "Salt",
+        "Black pepper"
+      ],
+      "procedure": [
+        "Cook fettuccine pasta according to package instructions until al dente. Drain and set aside.",
+        "Season chicken breast with salt and black pepper.",
+        "In a skillet, cook chicken breast until browned and cooked through. Remove from skillet and set aside.",
+        "In the same skillet, melt butter and sauté minced garlic until fragrant.",
+        "Add heavy cream and bring to a simmer. Stir in grated Parmesan cheese until melted and smooth.",
+        "Slice cooked chicken breast and add it back to the skillet. Stir to coat chicken in the Alfredo sauce.",
+        "Add cooked fettuccine to the skillet and toss to combine, coating the pasta in the sauce.",
+        "Serve hot, garnished with additional Parmesan cheese and black pepper."
+      ],
+      "total_time_taken": "30 minutes",
+      "servings": "4",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2017/03/Fetuchini-Alfredo-Pasta-4-600x900.jpg"
+    },
+    {
+      "dish": "Caprese Salad",
+      "description": "A refreshing salad featuring ripe tomatoes, creamy fresh mozzarella cheese, and aromatic basil leaves, drizzled with extra-virgin olive oil and balsamic vinegar.",
+      "ingredients": [
+        "Tomatoes",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Extra-virgin olive oil",
+        "Balsamic vinegar",
+        "Salt",
+        "Black pepper"
+      ],
+      "procedure": [
+        "Slice tomatoes and fresh mozzarella cheese into thick slices.",
+        "Arrange alternating slices of tomatoes and mozzarella on a serving platter.",
+        "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+        "Drizzle with extra-virgin olive oil and balsamic vinegar.",
+        "Season with salt and black pepper to taste.",
+        "Serve immediately as a refreshing appetizer or side dish."
+      ],
+      "total_time_taken": "10 minutes",
+      "servings": "2-4",
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-2-2.jpg"
+    },
+    {
+      "dish": "Vegetable Stir-Fry",
+      "description": "A colorful and nutritious stir-fry featuring an assortment of fresh vegetables stir-fried with tofu or chicken in a flavorful sauce.",
+      "ingredients": [
+        "Mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas)",
+        "Tofu or chicken (optional)",
+        "Soy sauce",
+        "Sesame oil",
+        "Garlic",
+        "Ginger",
+        "Cornstarch",
+        "Vegetable oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "procedure": [
+        "Prepare mixed vegetables by washing and cutting them into bite-sized pieces.",
+        "If using tofu or chicken, cut into cubes and season with salt and black pepper.",
+        "In a small bowl, mix soy sauce, sesame oil, minced garlic, grated ginger, and cornstarch to make the sauce.",
+        "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+        "Add tofu or chicken to the skillet and cook until browned and cooked through. Remove from skillet and set aside.",
+        "Add more oil to the skillet if needed, then add the mixed vegetables. Stir-fry until tender-crisp.",
+        "Return tofu or chicken to the skillet and pour the sauce over the vegetables and protein.",
+        "Stir-fry for another 2-3 minutes, or until the sauce has thickened and everything is well-coated.",
+        "Serve hot over steamed rice or noodles."
+      ],
+      "total_time_taken": "20 minutes",
+      "servings": "4",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2-728x1092.jpg"
+    },
+    {
+      "dish": "Caesar Salad",
+      "description": "A classic salad featuring crisp Romaine lettuce tossed with crunchy croutons, grated Parmesan cheese, and tangy Caesar dressing. Grilled chicken breast can be added for extra protein.",
+      "ingredients": [
+        "Romaine lettuce",
+        "Croutons",
+        "Parmesan cheese",
+        "Chicken breast (optional)",
+        "Caesar dressing"
+      ],
+      "procedure": [
+        "Wash and dry Romaine lettuce leaves. Tear into bite-sized pieces and place in a large salad bowl.",
+        "If using chicken breast, season with salt and black pepper. Grill or pan-sear until cooked through, then slice thinly.",
+        "Add croutons and grated Parmesan cheese to the bowl with the lettuce.",
+        "Toss salad with Caesar dressing until evenly coated.",
+        "Top with sliced grilled chicken breast if desired.",
+        "Serve immediately as a refreshing appetizer or light meal."
+      ],
+      "total_time_taken": "15 minutes",
+      "servings": "2-4",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2019/01/Caesar-Salad-Recipe-3-600x900.jpg"
+    },
+    {
+      "dish": "Pancakes",
+      "description": "These fluffy pancakes are a breakfast favorite, perfect for starting your day with a stack of golden-brown goodness topped with maple syrup.",
+      "ingredients": [
+        "All-purpose flour",
+        "Milk",
+        "Eggs",
+        "Butter",
+        "Granulated sugar",
+        "Baking powder",
+        "Salt",
+        "Maple syrup (for serving)"
+      ],
+      "procedure": [
+        "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+        "In another bowl, whisk together milk and eggs.",
+        "Gradually add the wet ingredients to the dry ingredients, stirring until just combined. Do not overmix; lumps are okay.",
+        "Melt butter in a skillet over medium heat.",
+        "Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, then flip and cook until golden brown on both sides.",
+        "Repeat with the remaining batter, adding more butter to the skillet as needed.",
+        "Serve hot with maple syrup and any other desired toppings."
+      ],
+      "total_time_taken": "20 minutes",
+      "servings": "4",
+      "image": "https://www.allrecipes.com/thmb/kvvETNZfOtAptH69gUsK6FaKRKA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/21014-Good-old-Fashioned-Pancakes-mfs_001-1fa26bcdedc345f182537d95b6cf92d8.jpg"
+    },
+    {
+      "dish": "Guacamole",
+      "description": "This creamy and flavorful dip is made from ripe avocados mashed with lime juice, red onion, tomato, cilantro, and spices. Perfect for dipping tortilla chips or topping your favorite Mexican dishes.",
+      "ingredients": [
+        "Ripe avocados",
+        "Lime juice",
+        "Red onion",
+        "Tomato",
+        "Fresh cilantro",
+        "Garlic",
+        "Salt",
+        "Black pepper",
+        "Jalapeño pepper (optional)"
+      ],
+      "procedure": [
+        "Cut avocados in half, remove the pit, and scoop the flesh into a bowl.",
+        "Mash avocados with a fork until smooth or chunky, depending on your preference.",
+        "Finely chop red onion, tomato, cilantro, and jalapeño pepper (if using).",
+        "Add chopped ingredients to the mashed avocados.",
+        "Add minced garlic, lime juice, salt, and black pepper to taste.",
+        "Mix everything together until well combined.",
+        "Taste and adjust seasoning if necessary.",
+        "Serve immediately with tortilla chips or as a topping for tacos, burritos, or salads."
+      ],
+      "total_time_taken": "15 minutes",
+      "servings": "4",
+      "image": "https://www.simplyrecipes.com/thmb/f0MLqxRI9Sv62wG3JO5MKoh1L-w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Guacamole-LEAD-6-2-64cfcca253c8421dad4e3fad830219f6.jpg"
+    },
+    {
+      "dish": "Rice and Beef Stew",
+      "description": "A hearty stew featuring tender beef simmered with aromatic vegetables and herbs, served over a bed of fluffy rice.",
+      "ingredients": [
+        "Beef stew meat",
+        "Rice",
+        "Onion",
+        "Carrots",
+        "Potatoes",
+        "Beef broth",
+        "Tomato paste",
+        "Garlic",
+        "Bay leaves",
+        "Salt",
+        "Black pepper"
+      ],
+      "procedure": [
+        "In a large pot, heat oil over medium-high heat.",
+        "Add beef stew meat and cook until browned on all sides. Remove from pot and set aside.",
+        "In the same pot, add chopped onion and minced garlic. Sauté until softened.",
+        "Add diced carrots and potatoes to the pot, stirring occasionally until slightly browned.",
+        "Return the browned beef to the pot. Pour in beef broth and add tomato paste and bay leaves.",
+        "Season with salt and black pepper to taste.",
+        "Bring to a boil, then reduce heat and simmer covered for about 1 to 1.5 hours, or until beef is tender and flavors are melded.",
+        "Serve hot over cooked rice."
+      ],
+      "total_time_taken": "1.5 hours",
+      "servings": "6",
+      "image": "https://lakegenevacountrymeats.com/wp-content/uploads/Wide-Japanese-Beef-Stew-1024x683.jpg"
+    }
+  ]
+}
